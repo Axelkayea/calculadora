@@ -6,6 +6,7 @@ body,html{
 }
 
 .calculadora{
+    font-family: 'Montserrat';
     justify-self: center;
     width: 400px;
     height: 500px;
@@ -15,7 +16,7 @@ body,html{
     position: relative;
     top: 20vh;
 }
-h1{
+.tit{
     display: flex;
     justify-self: center;
     text-align: center;
